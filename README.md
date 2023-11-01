@@ -2,7 +2,7 @@
 the discord network info and a basic discord.py bot
 
 ## Address structure
-`255.255.255.255:65536`
+`255.255.255.255:65535`
 
 #### Host
 The first 4 numbers should consist of an integer from 0 to 255.
