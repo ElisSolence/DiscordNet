@@ -16,5 +16,6 @@ A select `Port` numbers are reserved for special utilities.
 
 | Port    | Purpose                     |
 | ------- | --------------------------- |
-| `0    ` | remote terminal             |
-| `1    ` | return bot owner id         |
+| `0    ` | host main port              |
+| `1    ` | remote terminal             |
+| `2    ` | return bot owner id         |
