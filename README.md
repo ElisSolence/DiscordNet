@@ -10,7 +10,7 @@ These numbers are refered to as the `Host`
 Each member in the program gets a unique `Host` code.
 
 #### Port
-The last 5th number should consist of an integer from 0 to 65536.
+The last 5th number should consist of an integer from 0 to 65535.
 This number is refered to as the `Port`
 A select `Port` numbers are reserved for special utilities.
 
